@@ -1,0 +1,23 @@
+.container{
+    width: 80%;
+    margin: auto;
+    background-color: #1e1e1e;
+    color: #8d8989;
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+  text-transform: none;
+letter-spacing: 0px;
+font-size: 20px;
+opacity: 1;
+visibility: visible;
+-webkit-transition: opacity 0.24s ease-in-out;
+-moz-transition: opacity 0.24s ease-in-out;
+transition: opacity 0.24s ease-in-out;  
+}
+
+.content-item{
+    display: flex;
+    justify-content: center;
+}
